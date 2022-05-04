@@ -1,4 +1,4 @@
-### Project 1
+### Project 2.1
 Write a program that uses `printf` to display the following picture on the screen:
 ```
        *
@@ -9,4 +9,4 @@ Write a program that uses `printf` to display the following picture on the scree
   *
 ```
 ### Solution
-See `01.c`.
+See `2.1.c`.
