@@ -8,6 +8,5 @@ Write a program that uses `printf` to display the following picture on the scree
  * *
   *
 ```
-
 ### Solution
 See `2.1.c`.
