@@ -1,4 +1,4 @@
-### Exercise
+## Exercise
 Create and run Kernighan and Ritchie's famous "hello, world" program:
 ```
 int main(void)
