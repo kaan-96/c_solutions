@@ -3,4 +3,4 @@ Write a program that computes the volume of a sphere with a 10-meter radius, usi
 
 ### Solution
 See `02.c`.
-Writing the fraction as `4/3` causes truncation despite *v* being declared a float. Hence, `4/3` is shortened from 1.333... to 1.
+Writing the fraction as `4/3` causes truncation despite *v* being declared a `float`. Hence, `4/3` is shortened from 1.333... to 1.
