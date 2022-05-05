@@ -5,4 +5,4 @@ Enter an amount: 100.00
 With tax added: $105.00
 ```
 ### Solution
-See `2.4.c`.
+See `04.c`.
