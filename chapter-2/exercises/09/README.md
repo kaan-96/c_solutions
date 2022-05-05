@@ -1,4 +1,4 @@
-## Exercise 2.9
+## Exercise 9
 Insert spaces between the tokens in Exercise 8 to make the statement easier to read.
 
 ### Solution

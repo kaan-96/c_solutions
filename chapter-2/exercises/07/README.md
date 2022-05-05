@@ -1,4 +1,4 @@
-## Exercise 2.7
+## Exercise 7
 Which of the following are keywords in C?
 
 (a) `for`</br>

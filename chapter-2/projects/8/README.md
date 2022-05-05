@@ -1,4 +1,4 @@
-## Project 2.8
+## Project 8
 Write a program that calculates the remaining balance on a loan after the first, second, and third monthly payments:
 ```
 Enter amount of loan: 20000.00

@@ -1,4 +1,4 @@
-## Project 2.5
+## Project 5
 Write a program that asks the user to enter a value for *x* and then displays the value of the following polynomial:
 
 3*x*⁵ + 2*x*⁴ - 5*x*³ - *x*² + 7*x* - 6
