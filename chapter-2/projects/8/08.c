@@ -14,7 +14,6 @@ int main(void)
     scanf("%f", &monthly);
     
     interest = 1.0f + ((interest / 12.0f) / 100.0f);
-
     balance = loan * interest - monthly;
     printf("\nBalance remaining after first payment: $%f\n", balance);
 
