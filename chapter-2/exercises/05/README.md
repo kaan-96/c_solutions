@@ -7,4 +7,4 @@ Which of the following are not legal C identifiers?
 (d) `bottles_by_the_hundred_`
 
 ### Solution
-(a) and (b) are illegal identifiers as they begin with a number and underscore respectively.
+(a) is not a legal identifier. Identifiers may not start with a number or underscore.
