@@ -22,7 +22,7 @@ int main(void)
     printf("Balance remaining after second payment: $%f\n", balance);
 
     balance = balance * interest - monthly;
-    printf("Balance remaining after third payment: $%f\n", balance);
+    printf("Balance remaining after third payment: $%f", balance);
 
     return 0;
 }
