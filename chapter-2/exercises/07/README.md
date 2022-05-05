@@ -1,10 +1,10 @@
 ## Exercise 2.7
 Which of the following are keywords in C?
 
-(a) `for`
-(b) `If`
-(c) `main`
-(d) `printf`
+(a) `for`</br>
+(b) `If`</br>
+(c) `main`</br>
+(d) `printf`</br>
 (e) `while`
 
 ### Solution
