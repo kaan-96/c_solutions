@@ -1,10 +1,10 @@
 ## Exercise 3
 For each of the following pairs of `scanf` format strings, indicate whether or not the two strings are equivalent. If they're not, show how they can be distinguished.
 
-(a) `"%d"`          versus `" %d"`</br>
-(b) `"%d-%d-%d"`    versus `"%d -%d -%d"`</br>
-(c) `"%f"`          versus `"%f "`</br>
-(d) `"%f,%f"`       versus `"%f, %f"`
+(a) `"%d"` versus `" %d"`</br>
+(b) `"%d-%d-%d"` versus `"%d -%d -%d"`</br>
+(c) `"%f"` versus `"%f "`</br>
+(d) `"%f,%f"` versus `"%f, %f"`
 
 ### Solution
 (a) Equivalent since lone spaces around conversion specifications are skipped in `scanf`.</br>
