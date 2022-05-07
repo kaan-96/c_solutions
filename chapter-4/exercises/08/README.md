@@ -6,7 +6,7 @@ As established in Exercise 7, `9 - (total - 1) % 10` equals `10 - (total % 10)` 
 
 If `total % 10 == 0`, the addition of `% 10` in the proposed second expression would produce `10 % 10 == 0`, which is the same result as the first expression would produce.
 
-Whenever `total % 10 != 0`, the addition of `% 10` in the second expression has no effect on the result - the maximum value of `10 - total % 10` is 10 after all (assuming no negative digits).
+Whenever `total % 10 != 0`, the addition of `% 10` in the second expression has no effect on the result - the maximum value of `10 - total % 10` is 10 after all (when `total % 10 == 0`), assuming no negative digits.
 
 Thus the second expression manages to produce the same result as the first both when `total % 10 == 0` and when `total % 10 != 0`.</br>
 **The expressions are equivalent.**
