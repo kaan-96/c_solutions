@@ -7,4 +7,4 @@ Repeat Exercise 5 for C99.
 (c) Since 8 / -5 = -1, we get 8 - (-1 * -5) = 3</br>
 (d) Since -8 / -5 = 1, we get -8 - (1 * -5) = -3
 
-Note: see solution to exercise 5 for clarifications.
+Note: see solution to Exercise 5 for clarifications.
