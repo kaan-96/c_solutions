@@ -9,4 +9,4 @@ If `total % 10 == 0`, the addition of `% 10` in the proposed second expression w
 Whenever `total % 10 != 0`, the addition of `% 10` in the second expression has no effect on the result - the maximum value of `10 - total % 10` is 10 after all (when `total % 10 == 0`), assuming `total` cannot be negative.
 
 Thus the second expression manages to produce the same result as the first both when `total % 10 == 0` and when `total % 10 != 0`.</br>
-**The expressions are equivalent.**
+The expressions are equivalent.
