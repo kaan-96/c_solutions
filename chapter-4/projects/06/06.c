@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    // Program written from scratch rather than a rewrite of upc.c.
+    // Program written from scratch rather than a "minimum necessary" rewrite of upc.c.
     int i1, i2, i3, i4, i5, i6, i7, i8, i9, i10, i11, i12, even_sum, odd_sum, total;
 
     printf("Enter the first 12 digits of an EAN: ");

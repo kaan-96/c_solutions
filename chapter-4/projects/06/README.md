@@ -1,5 +1,5 @@
 ## Exercise 6
-European countries use a 13-digit code, known as a European Article Number (EAN) isntead of the 12-digit Universal Product Code (UPC) found in North America. Each EAN ends with a check digit, just as a UPC does. The technique for calculating the check digit is also similar:
+European countries use a 13-digit code, known as a European Article Number (EAN) instead of the 12-digit Universal Product Code (UPC) found in North America. Each EAN ends with a check digit, just as a UPC does. The technique for calculating the check digit is also similar:
 
 Add the second, fourth, sixth, eight, tenth, and twelfth digits.</br>
 Add the first, third, fifth, seventh, ninth, and eleventh digits.</br>
