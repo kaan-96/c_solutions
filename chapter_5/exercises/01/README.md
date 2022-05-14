@@ -5,7 +5,7 @@ The following program fragments illustrate the relational and equality operators
 ```
 i = 2; j = 3;
 k = i * j == 6;
-printf("%D", k);
+printf("%d", k);
 ```
 
 (b)
