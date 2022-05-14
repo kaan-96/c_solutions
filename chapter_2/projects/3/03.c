@@ -1,8 +1,7 @@
 #include <stdio.h>
 #define PI 3.14f
 
-int main(void)
-{
+int main(void) {
     float r, v;
 
     printf("Enter a radius: ");

@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     int gs1, group, publisher, item, check;
 
     printf("Enter ISBN: ");

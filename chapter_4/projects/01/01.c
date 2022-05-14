@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     int d;
 
     printf("Enter a two-digit number: ");

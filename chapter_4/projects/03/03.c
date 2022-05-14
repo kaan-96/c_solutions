@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     int d1, d2, d3;
 
     printf("Enter a three-digit number: ");

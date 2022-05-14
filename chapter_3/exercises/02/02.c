@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     float x = 123.456f;
 
     printf("|%-8.1e", x);
