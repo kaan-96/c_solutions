@@ -26,7 +26,7 @@ printf("%d", i < j || k);
 ```
 
 ### Solution
-(a) </br>
-(b) </br>
-(c) </br>
-(d)
+(a) `1`</br>
+(b) `1`</br>
+(c) `1`</br>
+(d) `1`
