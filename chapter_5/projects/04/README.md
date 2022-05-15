@@ -1,7 +1,7 @@
 ## Project 4
 Here's a simplified version of the Beaufort scale, which is used to estimate wind force:
 
-| Speed (knots) | Description |
+| *Speed (knots)* | *Description* |
 | :--- | :--- |
 | Less than 1 | Calm |
 | 1-3 | Light air |
@@ -11,3 +11,6 @@ Here's a simplified version of the Beaufort scale, which is used to estimate win
 | Above 63 | Hurricane |
 
 Write a program that asks the user to enter a wind speed (in knots), then displays the correcsponding description.
+
+### Solution
+See `04.c`.
