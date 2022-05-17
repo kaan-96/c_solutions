@@ -8,4 +8,4 @@ Smallest: 10
 Use as few `if` statements as possible. *Hint:* Four `if` statements are sufficient.
 
 ### Solution
-See `07a.c` and `07b.c` for two different methods.
+See `07a.c` and `07b.c` for two slightly different methods.
